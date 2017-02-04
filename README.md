@@ -1,6 +1,6 @@
 # CppHeaderGuard
 Create unique macros to prevent multiple header inclusion.
-![alt text](https://github.com/T800G/CppHeaderGuard/blob/master/cppguard.png "Preprocessor definition generator")
+
 ##Minimum system requirements
   * Windows 2000
 
