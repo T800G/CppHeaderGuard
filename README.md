@@ -5,6 +5,6 @@ Create unique macros to prevent multiple header inclusion.
   * Windows 2000
 
 ###How to use
-Run with optional file name argument (easy integration to your IDE) or drag and drop to generate preprocessor directives.<br/>
+Run with optional file name argument (easy integration to your IDE) or drag and drop files into dialog to generate preprocessor directives.<br/>
 Press 'OK' to copy code to clipboard and exit.<br/>
 Press 'Help' to show/hide help text.
