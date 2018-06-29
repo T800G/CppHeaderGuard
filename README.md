@@ -9,4 +9,4 @@ Run with optional file name argument (easy integration to your IDE) or drag and 
 Press 'OK' to copy code to clipboard and exit.<br/>
 Press 'Help' to show/hide help text.
 
-Read the ![CodeProject article](http://www.codeproject.com/Articles/34215/C-Header-Guard "CodeProject article")
+Read the CodeProject article https://www.codeproject.com/Articles/34215/C-Header-Guard
